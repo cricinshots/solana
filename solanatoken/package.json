@@ -1,0 +1,16 @@
+{
+  "name": "solanatoken",
+  "version": "1.0.0",
+  "description": "Solana fungible token (Cricket Clash Gems)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dev-kasibhatla@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.87.1"
+  }
+}

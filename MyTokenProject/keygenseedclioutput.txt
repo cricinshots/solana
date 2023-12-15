@@ -1,0 +1,16 @@
+Generating a new keypair
+
+For added security, enter a BIP39 passphrase
+
+NOTE! This passphrase improves security of the recovery seed phrase NOT the
+keypair file itself, which is stored as insecure plain text
+
+BIP39 Passphrase (empty for none): 
+
+Wrote new keypair to secretseed.json
+==========================================================================
+pubkey: 3LGugc9ax34e8K6nrUVoxuZD6dEzxej2Epc5u4QSrdHr
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+mention sausage blood wave eagle worth clog cup lunch tilt episode faculty
+==========================================================================

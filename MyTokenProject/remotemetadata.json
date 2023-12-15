@@ -1,0 +1,11 @@
+{
+  "name": "Cricket Clash Gems",
+  "symbol": "CCG",
+  "description": "Cricket Clash Gems is a unique token representing in-game assets for the Cricket Clash game.",
+  "attributes": {
+    "type": "Game Asset",
+    "rarity": "Rare"
+  },
+  "image": "https://cricinshots.in/appres/misc/wut.png"
+}
+

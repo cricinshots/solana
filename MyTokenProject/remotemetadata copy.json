@@ -1,0 +1,12 @@
+{
+  "name": "Cricket Clash Gems",
+  "symbol": "CCG",
+  "description": "Cricket Clash Gems is a unique token representing in-game assets for the Cricket Clash game.",
+  "attributes": {
+    "type": "Game Asset",
+    "rarity": "Rare"
+  },
+  "image": "https://cricinshots.in/appres/misc/wut.png"
+}
+
+{"name":"Cricket Clash Gems","symbol":"CRCG","description":"Cricket Clash Gems is a unique token representing in-game assets for the Cricket Clash game.","image":"https://cricinshots.in/appres/misc/wut.png","attributes":[],"properties":{"files":[{"uri":"https://cricinshots.in/appres/misc/wut.png","type":"image/png"}]}}
